@@ -1,4 +1,4 @@
-You can also use Minikube, an open source project within the GitHub Kubernetes organization. While you can download a release from GitHub, following listed directions, it may be easier to download a pre-compiled binary. Make sure to verify and get the latest version.
+following listed directions, it may be easier to download a pre-compiled binary. Make sure to verify and get the latest version.
 
 For example, to get the v.0.22.2 version, do:
 
