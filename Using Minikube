@@ -1,0 +1,13 @@
+You can also use Minikube, an open source project within the GitHub Kubernetes organization. While you can download a release from GitHub, following listed directions, it may be easier to download a pre-compiled binary. Make sure to verify and get the latest version.
+
+For example, to get the v.0.22.2 version, do:
+
+$ curl -Lo minikube https://storage.googleapis.com/minikube/releases/latest/minikube-darwin-amd64
+
+$ chmod +x minikube
+
+$ sudo mv minikube /usr/local/bin
+
+
+NOTE
+A good Github to follow and read to know more about Minikube - https://github.com/kubernetes/minikube
